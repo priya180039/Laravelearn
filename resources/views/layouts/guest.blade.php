@@ -20,6 +20,10 @@
             'label' => 'Artikel',
             'link' => 'blogs.index',
         ],
+        [
+            'label' => 'Pekerjaan',
+            'link' => 'jobs.index',
+        ],
     ],
 ])
 

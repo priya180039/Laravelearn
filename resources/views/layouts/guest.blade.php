@@ -46,7 +46,7 @@
 </head>
 
 <body class="font-sans text-gray-900 antialiased">
-    <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100 dark:bg-gray-900">
+    <div class="min-h-screen flex flex-col sm:justify-starts items-center pt-6 sm:pt-0 bg-gray-100 dark:bg-gray-900">
         <div class="w-full">
             <nav
                 class="container relative flex flex-wrap items-center justify-between p-8 mx-auto lg:justify-between xl:px-0">
